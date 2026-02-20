@@ -184,7 +184,7 @@ end
 local function _startAttack(player: Player, tool : Tool, attackId : string): nil
 	
 	local character = player.Character :: Model
-	local humanoid = character and character:WaitForChild("Humanoid") :: Humanoid
+	local humanoid = character and character:FindFirstChild("Humanoid") :: Humanoid
 	if not character or not humanoid then return end 
 	
 	local entityState = EntityStateService.GetOrCreate(humanoid)
@@ -230,7 +230,7 @@ end
 -- Client request to perform an attack
 local function attackRequest(player: Player, tool : Tool, swingNumber : number): nil
 	local character = player.Character :: Model
-	local humanoid = character and character:WaitForChild("Humanoid") :: Humanoid
+	local humanoid = character and character:FindFirstChild("Humanoid") :: Humanoid
 	if not character or not humanoid then return end 
 
 	local entityState = EntityStateService.GetOrCreate(humanoid)
@@ -264,7 +264,7 @@ end
 -- Called when an attack is finished
 local function attackEnded(player : Player, attackId : string): nil
 	local character = player.Character :: Model
-	local humanoid = character and character:WaitForChild("Humanoid") :: Humanoid
+	local humanoid = character and character:FindFirstChild("Humanoid") :: Humanoid
 	
 	if not character or not humanoid then return end 
 	
@@ -364,3 +364,4 @@ function CombatHandler.Initialize(): nil
 end
 
 return CombatHandler
+
