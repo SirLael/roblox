@@ -1,0 +1,10 @@
+I think milestone-based payment would work best for this project. Splitting development into milestones would make progress tracking, revisions, and payments much safer and clearer for both sides
+
+My preferred structure would be something like:
+Milestone 1 — Core gameplay systems (565 USD on completion)
+(lobby, round system, role system, combat foundation, map voting, win conditions, core UI)
+Milestone 2 — Progression/backend systems (565 USD on completion)
+(inventory, datastore saving, currencies, leveling, crates/shop, equipment systems)
+Milestone 3 — Final systems/polish (570 USD on completion)
+(trading, anti-cheat, ghost system, optimization, admin tools, cross-platform polish, bug fixing)
+Total: 1700 USD

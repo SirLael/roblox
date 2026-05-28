@@ -1,0 +1,403 @@
+==============================================================
+Guild: Direct Messages
+Channel: Swag
+After: 27/05/2026 00:00
+Before: 27/06/2026 00:00
+==============================================================
+
+[27/05/2026 23:42] sirlael
+
+
+{Stickers}
+https://cdn.discordapp.com/stickers/749054660769218631.json
+
+
+[27/05/2026 23:42] ihaveswagg_
+
+
+{Stickers}
+https://cdn.discordapp.com/stickers/749054660769218631.json
+
+
+[27/05/2026 23:44] ihaveswagg_
+https://discord.gg/hmTa5DMXp
+
+
+[27/05/2026 23:47] ihaveswagg_
+Please join the server
+
+
+[27/05/2026 23:47] sirlael
+Okay
+
+
+[27/05/2026 23:54] ihaveswagg_
+<@374713413173248001> Can you create scripts for round systems and map voting… and stuff related to Murder Mystery?
+
+
+[27/05/2026 23:55] sirlael
+Yes, of course, easily
+
+
+[27/05/2026 23:56] ihaveswagg_
+Are you comfortable working with another scripter and reviewing each other’s code?
+
+
+[27/05/2026 23:56] sirlael
+Yes, yes
+
+
+[27/05/2026 23:56] ihaveswagg_
+What payment are you expecting?(USD, Robux, percentage, etc.)
+
+
+[27/05/2026 23:57] sirlael
+USD
+
+
+[27/05/2026 23:57] ihaveswagg_
+Okay
+
+
+[27/05/2026 23:57] sirlael
+Can you do PayPal?
+
+
+[27/05/2026 23:57] ihaveswagg_
+Yes
+
+
+[27/05/2026 23:58] sirlael
+Okay
+
+
+[28/05/2026 00:02] ihaveswagg_
+Are you interested in starting soon/currently available?
+
+What are your usual rates?
+
+
+[28/05/2026 00:04] sirlael
+Yes, I can start immediately. My rate is 10 USD per hour. First, we can define the scope together, and then I can estimate how many hours the entire project will take and provide a final quote
+
+
+[28/05/2026 00:04] ihaveswagg_
+Okay
+
+
+[28/05/2026 00:10] ihaveswagg_
+Here’s a list of the systems I require. If you believe anything is missing, please let me know so I can update the list. I’m open to making adjustments if you think something should be different to enhance the gameplay.
+
+* Multiplayer Roblox murder mystery game called “Murderer”
+* 10–16 players per server
+* Fast paced rounds
+* Roles:
+    * 1 murderer
+    * 1 sheriff
+    * rest innocents
+* Lobby system:
+    * map voting
+    * shop
+    * inventory
+    * trading
+    * settings
+    * leaderboard
+    * daily rewards
+    * intermission countdown
+* Map voting:
+    * 3 random maps
+    * vote by standing on pads
+    * preview image
+    * map name
+    * vote counter
+    * one vote per player
+    * random winner on ties
+* Round system:
+    * teleport players to map
+    * random role assignment
+    * hidden murderer identity
+* Murderer:
+    * third person
+    * stab attack
+    * throwable knife with cooldown
+    * instant kills
+    * collect coins
+    * wins by killing everyone
+* Sheriff:
+    * gun with shooting/reload
+    * kills murderer to win
+    * gun drops on death
+    * innocents can pick up gun
+* Innocents:
+    * survive until timer ends or murderer dies
+    * run/hide
+    * collect coins
+    * pick up sheriff gun
+* Ghost system:
+    * dead players become ghosts
+    * ghosts visible only to ghosts
+    * transparent/floating/glow effect
+    * no interaction with world
+* Round end:
+    * ends on murderer win/death/timer
+    * results screen:
+        * winning team
+        * survivors
+        * XP
+        * coins
+    * return to lobby
+* Maps:
+    * medium sized
+    * rooms
+    * hallways
+    * vertical areas
+    * coin spawns
+    * player spawns
+    * ambient audio/lighting
+* Inventory:
+    * knives
+    * guns
+    * effects
+    * emotes
+    * equip system
+    * rarity system:
+        * common
+        * uncommon
+        * rare
+        * legendary
+        * godly
+        * ancient
+    * autosave
+
+
+[28/05/2026 00:10] ihaveswagg_
+* Shop:
+    * crates
+    * featured items
+    * effects
+    * emotes
+    * gamepasses
+    * unboxing animation
+    * rarity chances
+    * rotating items
+* Currency:
+    * coins
+    * gems
+    * XP
+    * rewards from kills/survival/coins
+* Trading:
+    * trade requests
+    * accept/decline
+    * dual inventory UI
+    * anti duplication
+* Leveling:
+    * XP levels
+    * titles/ranks
+    * prestige system
+    * XP bar
+* Settings:
+    * music volume
+    * SFX volume
+    * graphics toggle
+    * shift lock
+    * sprint toggle
+    * autosave
+* Emotes:
+    * usable in lobby/rounds
+    * stop on movement
+* UI:
+    * round timer
+    * role display
+    * coins
+    * XP bar
+    * inventory/shop/trade/settings buttons
+    * PC/mobile/console support
+* Audio/VFX:
+    * ambient sounds
+    * round/victory music
+    * footsteps
+    * hit sounds
+    * coin sounds
+    * UI sounds
+    * camera shake
+    * blur
+    * transitions
+    * particles
+* Anti cheat:
+    * validate damage
+    * validate currency
+    * validate inventory/trades
+    * speed checks
+    * teleport checks
+    * remote validation
+* Data saving:
+    * inventory
+    * currency
+    * XP
+    * wins
+    * equipped items
+    * settings
+    * autosave/retry handling
+* Admin:
+    * kick
+    * ban
+    * end round
+    * start round
+    * give items
+    * moderation logs
+
+
+[28/05/2026 00:34] ihaveswagg_
+<@374713413173248001>
+
+
+[28/05/2026 00:57] sirlael
+Ok
+
+
+[28/05/2026 00:57] sirlael
+<@1497649755298205746> all sounds good
+
+
+[28/05/2026 00:57] sirlael
+just a question, about the maps: I'm not a builder, so I'm not that good in building
+
+
+[28/05/2026 00:59] ihaveswagg_
+Thats okay I just need a placeholder like basic shapes or meshes
+
+
+[28/05/2026 01:00] sirlael
+how many maps would you like ?
+
+
+[28/05/2026 01:02] ihaveswagg_
+For now just 3 but it can be a square platform with a number/text
+
+
+[28/05/2026 01:02] sirlael
+what do you mean by " with a number/text" ?
+
+
+[28/05/2026 01:03] ihaveswagg_
+Like a text that says 1 or the name of the map
+
+
+[28/05/2026 01:03] sirlael
+ok
+
+
+[28/05/2026 01:04] ihaveswagg_
+Do you have any questions or anything I should know before I add you to the studio
+
+
+[28/05/2026 01:04] ihaveswagg_
+What is you roblox user
+
+
+[28/05/2026 01:04] sirlael
+Just let me calculate the estimated hours so I can tell you the quote
+
+
+[28/05/2026 01:05] ihaveswagg_
+Okay
+
+
+[28/05/2026 01:25] sirlael
+<@1497649755298205746> 
+
+ I'm here again. I took some time to properly evaluate the scope of the project and estimate the amount of engineering work required. Although the core gameplay loop is relatively straightforward, the overall project includes a large number of interconnected systems such as round handling, role systems, simple combat, inventory/economy architecture, trading, datastore persistence, anti-cheat validation, UI integration, progression systems, admin systems, and multiplatform support. Because of that, the project scope is significantly larger from a backend and systems-design perspective than a typical Roblox minigame.
+
+
+[28/05/2026 01:28] sirlael
+I believe the project would realistically require around 170 hours of work for a solid production-ready implementation. Based on that estimate, these would be my rates depending on the requested delivery timeline:
+
+- Standard Timeline (3 months) — 1700 USD (~485k Robux)
+- Priority Timeline (2 months) — 2000 USD (~570k–628k Robux)
+- Accelerated Timeline (1 month) — 2600 USD (~742k–857k Robux)
+
+
+[28/05/2026 01:28] sirlael
+The shorter timelines are priced higher because they require significantly increased availability, prioritization over other work, tighter scheduling, and a much more intensive development pace. I’d also like to define a few scope conditions clearly from the start:
+
+- The quoted pricing covers the currently described systems/features only
+- New systems, major feature additions, redesigns, or significant gamplay changes requested after development begins may require additional pricing and timeline adjustments
+- Minor balancing adjustments and small revisions are expected and completely fine
+- UI art/assets, map building, models, sounds, and visual asset creation are not included unless specifically discussed separately, so I'll use placeholders for all of them
+- Extremely large scope expansions during development may require reevaluation of both pricing and delivery date
+
+Let me know what timeline works best for you and we can discuss the next steps
+
+
+[28/05/2026 01:35] ihaveswagg_
+Okay.  3 months is fine. How do you expect to be paid? Ex by day by project by completion…?
+
+
+[28/05/2026 01:40] sirlael
+I think milestone-based payment would work best for this project. Splitting development into milestones would make progress tracking, revisions, and payments much safer and clearer for both sides
+
+My preferred structure would be something like:
+- Milestone 1 — Core gameplay systems (565 USD on completion)
+(lobby, round system, role system, combat foundation, map voting, win conditions, core UI)
+- Milestone 2 — Progression/backend systems (565 USD on completion)
+(inventory, datastore saving, currencies, leveling, crates/shop, equipment systems)
+- Milestone 3 — Final systems/polish (570 USD on completion)
+(trading, anti-cheat, ghost system, optimization, admin tools, cross-platform polish, bug fixing)
+Total: 1700 USD
+
+
+[28/05/2026 01:40] sirlael
+What do you think?
+
+
+[28/05/2026 01:41] ihaveswagg_
+Thats good
+
+
+[28/05/2026 01:41] ihaveswagg_
+Whats your roblox user?
+
+
+[28/05/2026 01:50] sirlael
+okay, nice
+
+
+[28/05/2026 01:50] sirlael
+my roblox user:
+@TheLordShrimp - display name
+Big_Honor - username
+
+
+[28/05/2026 01:51] ihaveswagg_
+Added mines SWAG
+
+
+[28/05/2026 01:52] sirlael
+Accepted
+
+
+[28/05/2026 01:53] ihaveswagg_
+Added you to studio
+
+
+[28/05/2026 01:55] sirlael
+Okay. I can start tomorrow, alright? My timezone is GMT-3 since I live in Brazil. It’s currently 10:53 PM for me. I can start tomorrow around 11 AM or 12 PM, if that works for you
+
+
+[28/05/2026 01:57] ihaveswagg_
+Thats fine
+
+{Reactions}
+🔥
+
+[28/05/2026 01:57] ihaveswagg_
+Do you have any questions on what needs to be done since I might be asleep around that time
+
+
+[28/05/2026 01:59] sirlael
+At this moment, I don't have any questions, but I'll let you know when any come up.
+
+
+==============================================================
+Exported 51 message(s)
+==============================================================

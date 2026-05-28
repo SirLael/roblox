@@ -1,0 +1,7 @@
+ I’d also like to define a few scope conditions clearly from the start:
+
+The quoted pricing covers the currently described systems/features only
+New systems, major feature additions, redesigns, or significant gamplay changes requested after development begins may require additional pricing and timeline adjustments
+Minor balancing adjustments and small revisions are expected and completely fine
+UI art/assets, map building, models, sounds, and visual asset creation are not included unless specifically discussed separately, so I'll use placeholders for all of them
+Extremely large scope expansions during development may require reevaluation of both pricing and delivery date

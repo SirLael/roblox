@@ -1,0 +1,156 @@
+Here’s a list of the systems I require. If you believe anything is missing, please let me know so I can update the list. I’m open to making adjustments if you think something should be different to enhance the gameplay.
+
+Multiplayer Roblox murder mystery game called “Murderer”
+10–16 players per server
+Fast paced rounds
+Roles:
+1 murderer
+1 sheriff
+rest innocents
+Lobby system:
+map voting
+shop
+inventory
+trading
+settings
+leaderboard
+daily rewards
+intermission countdown
+Map voting:
+3 random maps
+vote by standing on pads
+preview image
+map name
+vote counter
+one vote per player
+random winner on ties
+Round system:
+teleport players to map
+random role assignment
+hidden murderer identity
+Murderer:
+third person
+stab attack
+throwable knife with cooldown
+instant kills
+collect coins
+wins by killing everyone
+Sheriff:
+gun with shooting/reload
+kills murderer to win
+gun drops on death
+innocents can pick up gun
+Innocents:
+survive until timer ends or murderer dies
+run/hide
+collect coins
+pick up sheriff gun
+Ghost system:
+dead players become ghosts
+ghosts visible only to ghosts
+transparent/floating/glow effect
+no interaction with world
+Round end:
+ends on murderer win/death/timer
+results screen:
+winning team
+survivors
+XP
+coins
+return to lobby
+Maps:
+medium sized
+rooms
+hallways
+vertical areas
+coin spawns
+player spawns
+ambient audio/lighting
+Inventory:
+knives
+guns
+effects
+emotes
+equip system
+rarity system:
+common
+uncommon
+rare
+legendary
+godly
+ancient
+autosave
+Shop:
+crates
+featured items
+effects
+emotes
+gamepasses
+unboxing animation
+rarity chances
+rotating items
+Currency:
+coins
+gems
+XP
+rewards from kills/survival/coins
+Trading:
+trade requests
+accept/decline
+dual inventory UI
+anti duplication
+Leveling:
+XP levels
+titles/ranks
+prestige system
+XP bar
+Settings:
+music volume
+SFX volume
+graphics toggle
+shift lock
+sprint toggle
+autosave
+Emotes:
+usable in lobby/rounds
+stop on movement
+UI:
+round timer
+role display
+coins
+XP bar
+inventory/shop/trade/settings buttons
+PC/mobile/console support
+Audio/VFX:
+ambient sounds
+round/victory music
+footsteps
+hit sounds
+coin sounds
+UI sounds
+camera shake
+blur
+transitions
+particles
+Anti cheat:
+validate damage
+validate currency
+validate inventory/trades
+speed checks
+teleport checks
+remote validation
+Data saving:
+inventory
+currency
+XP
+wins
+equipped items
+settings
+autosave/retry handling
+Admin:
+kick
+ban
+end round
+start round
+give items
+moderation logs
